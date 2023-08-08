@@ -9,7 +9,7 @@
         "email": "info@factoryframeworks.com"
     },
     "engines": {
-        "node": ">=16.17.0"
+        "node": ">=12.22.0"
     },
     "node-red": {
         "version": ">=3.0.2",
